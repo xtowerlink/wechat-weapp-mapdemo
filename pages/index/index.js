@@ -3,7 +3,7 @@
 var app = getApp()
 Page({
   data: {
-    motto: '微信小程序尝鲜，地图定位',
+    motto: '忻州铁塔忻府区，地图定位',
     userInfo: {},
     appInfo:{
       logoUrl:'../../image/logo.png',
